@@ -1,4 +1,4 @@
-# CB96
+Team Name: CB96
 Travel and Tourism
 Tours and travel project,this project is for  booking hotels by user itself.
 privilege of choosing any hotels near by there tourist place according to the hotels ratings and facilities.
